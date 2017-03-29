@@ -1,0 +1,61 @@
+/*This is the CSS file used for all my HTML documents. There is no second CSS file.*/
+body 
+{
+	font-size: 20px;
+	font-family:Impact;
+	/*The Impact font really fits my topic. It does get difficult to read at times, so please check the code if confused about any words*/
+	color:black;
+	background-color:rgb(200,200,200);
+	/*This color is a shade of grey. It looks nice, as plain white is too bright and bothers my eyes, personally.*/
+	margin:10% 10% 10% 10%;
+}
+table 
+{
+	border-collapse: collapse;
+	width: 100%;
+}
+table, th, td 
+{
+	border: 1px solid black;
+}
+#Bold
+{
+	font-weight: bold;
+}
+#Ita
+{
+	font-style: italic;
+}
+#Synd
+{
+	width: 50%
+}
+#Synd2
+{
+	width: 50%
+}
+#Synd3
+{
+	width: 50%
+}
+.centerrel
+{
+    height: 100%;
+    width: 100%;
+	text-align: center;
+}
+.syn
+{
+    height: 50%;
+    width: 50%;
+}
+.center
+{
+	text-align: center;
+}
+img.center 
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
